@@ -26,13 +26,13 @@ I believe in **learning in public**, so this repo is both my study space and a r
 
 Each **branch** of this repo represents one DevOps topic.
 
-- [`linux`](https://github.com/Jashan-123/devops-learning-journey/tree/linux) → Linux commands & scripting notes
-- [`git-github`](https://github.com/Jashan-123/devops-learning-journey/tree/git-github) → Git commands & workflows
-- [`jenkins`](https://github.com/Jashan-123/devops-learning-journey/tree/jenkins) → Jenkins pipelines & CI/CD notes
-- [`docker`](https://github.com/Jashan-123/devops-learning-journey/tree/docker) → Docker commands, Dockerfiles, projects
-- [`kubernetes`](https://github.com/Jashan-123/devops-learning-journey/tree/kubernetes) → K8s manifests & deployments
-- [`ansible`](https://github.com/Jashan-123/devops-learning-journey/tree/ansible) → Playbooks, roles, automation scripts
-- [`terraform`](https://github.com/Jashan-123/devops-learning-journey/tree/terraform) → IaC templates for AWS
+- [`linux`](https://github.com/Jashan-123/devops-notes/tree/linux) → Linux commands & scripting notes
+- [`git-github`](https://github.com/Jashan-123/devops-notes/tree/git-github) → Git commands & workflows
+- [`jenkins`](https://github.com/Jashan-123/devops-notes/tree/jenkins) → Jenkins pipelines & CI/CD notes
+- [`docker`](https://github.com/Jashan-123/devops-notes/tree/docker) → Docker commands, Dockerfiles, projects
+- [`kubernetes`](https://github.com/Jashan-123/devops-notes/tree/kubernetes) → K8s manifests & deployments
+- [`ansible`](https://github.com/Jashan-123/devops-notes/tree/ansible) → Playbooks, roles, automation scripts
+- [`terraform`](https://github.com/Jashan-123/devops-notes/tree/terraform) → IaC templates for AWS
 
 ---
 
