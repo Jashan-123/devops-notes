@@ -1,3 +1,5 @@
+![DevOps Learning Journey](./devops_learning_journey_banner.png)
+
 # 🚀 My First Bash Scripts
 Welcome to my repository! This is where I'm pushing my first Bash scripts as part of my journey into DevOps.
 
