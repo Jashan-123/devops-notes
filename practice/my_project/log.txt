@@ -1,0 +1,6 @@
+INFO: Service started successfully.
+ERROR: Connection timed out.
+INFO: User 'admin' logged in.
+WARN: Disk space is low.
+ERROR: Failed to write to database.
+
